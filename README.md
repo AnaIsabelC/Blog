@@ -1,8 +1,8 @@
-# Blog  :tw-1f499:
+# Blog  :heart_eyes:
 Blog increible para el curso de Git y GitHub de Platzi
 
-#### Mi primer repositorio en Git Hub :tw-1f431:
+#### Mi primer repositorio en Git Hub :smiley_cat:
 
 Aquí hay archivos random que fueron utilizados para el desarrollo de este curso.
 
-Lo hago porque quiero ser una gran Analista de Datos :tw-1f60a:
+Lo hago porque quiero ser una gran Analista de Datos :purple_heart:
